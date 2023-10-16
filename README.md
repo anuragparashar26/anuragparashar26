@@ -1,3 +1,5 @@
+https://github.com/anuragparashar26/anuragparashar26/blob/main/banner.png
+
 👋 Hello there! I'm Anurag Parashar
 
 🚀 Tech and Design Enthusiast | 💻 Passionate Coder
@@ -8,7 +10,7 @@
 
 🌱 Currently exploring DSA in C++
 
-💬 Let's connect and collaborate. Open to new opportunities and exciting projects
+💬 Let's connect and collaborate. Open to new opportunities and exciting projects.
 
 📫 Reach out to me: https://anuragparashar26.github.io/my-bio/
 
