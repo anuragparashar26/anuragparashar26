@@ -1,16 +1,15 @@
-### Hi there 👋
+👋 Hello there! I'm Anurag Parashar
 
-<!--
-**anuragparashar26/anuragparashar26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Tech and Design Enthusiast | 💻 Passionate Coder
 
-Here are some ideas to get you started:
+🌟 Here to make the digital world a better place
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 On github to work on my Web Dev side to build some amazing projects
+
+🌱 Currently exploring DSA in C++
+
+💬 Let's connect and collaborate. Open to new opportunities and exciting projects
+
+📫 Reach out to me: https://anuragparashar26.github.io/my-bio/
+
+🌐 Check out my repos, and let's create something amazing together!
