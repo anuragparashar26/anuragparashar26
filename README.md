@@ -12,6 +12,6 @@
 
 💬 Let's connect and collaborate. Open to new opportunities and exciting projects.
 
-📫 Reach out to me: https://anuragparashar26.github.io/my-bio/
+📫 Connect with me: https://anuragparashar26.github.io/my-bio/
 
 🌐 Check out my repos, and let's create something amazing together!
