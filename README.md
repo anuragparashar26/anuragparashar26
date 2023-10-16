@@ -1,4 +1,4 @@
-https://github.com/anuragparashar26/anuragparashar26/blob/main/banner.png
+<img src="https://github.com/anuragparashar26/anuragparashar26/blob/main/banner.png" alt="cover">
 
 👋 Hello there! I'm Anurag Parashar
 
