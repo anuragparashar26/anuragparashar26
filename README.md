@@ -27,7 +27,14 @@
   <img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git">
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c">
   <img src="https://img.shields.io/badge/C++-purple?style=for-the-badge&logo=c%2B%2B">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF">
+</div>
+
+##
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragparashar26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=anuragparashar26&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ## 📧 Quick Connect  
