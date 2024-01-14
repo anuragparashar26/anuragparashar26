@@ -33,7 +33,12 @@
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragparashar26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
+<a href="https://github.com/anuragparashar26">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragparashar26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2" width="496" height="196" alt="Languages Graph">
+</a>
+<a href="https://github.com/anuragparashar26">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anuragparashar26&theme=dark" alt="GitHub Streak">
+</a>
 </div>
 
 ## 📧 Quick Connect  
