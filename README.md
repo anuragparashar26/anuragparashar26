@@ -32,12 +32,10 @@
 </div>
 
 <br>
-<div>
+<div align="center">
 <a href="https://github.com/anuragparashar26">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragparashar26&locale=en&hide_title=false&layout=compact&card_width=340&langs_count=4&theme=dark&hide_border=false&order=2" width="496" height="196" alt="Languages Graph">
-</a>
-<a href="https://github.com/anuragparashar26">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anuragparashar26&theme=dark" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragparashar26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" width="350" height="175" alt="Languages Graph"><br>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anuragparashar26&theme=dark" alt="GitHub Streak"/></a>
 </a>
 </div>
 
