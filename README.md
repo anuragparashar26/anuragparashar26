@@ -19,17 +19,39 @@
 
 🌐 Check out my repos, and let's create something amazing together!
 
- ## 📚 Skill Set  
+ ## 📚 Skill Set
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git">
-  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c">
-  <img src="https://img.shields.io/badge/C++-purple?style=for-the-badge&logo=c%2B%2B">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
 </div>
+
+###
 
 <br>
 <div align="center">
@@ -39,11 +61,14 @@
 </div>
 
 ## 📧 Quick Connect  
+
 <div align="center">
-<a href="https://linkedin.com/in/anuragparashar26" target="_blank">
-<img src=https://img.shields.io/badge/@anuragparashar26-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-<a href="https://twitter.com/anuparashar26" target="_blank">
-<img src=https://img.shields.io/badge/@anuparashar26-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;"/>
-</a>  
+  <a href="https://linkedin.com/in/anuragparashar26" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/anuparashar26" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" width="40" height="38" alt="twitter logo" />
+  </a>
 </div>
+
+###
