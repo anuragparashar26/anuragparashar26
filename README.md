@@ -10,7 +10,7 @@
 
 🔧 On github to work on my Web Dev side to build some amazing projects
 
-🌱 Currently exploring DSA in C++
+🌱 Currently exploring DSA
 
 💬 Let's connect and collaborate. Open to new opportunities and exciting projects.
 
