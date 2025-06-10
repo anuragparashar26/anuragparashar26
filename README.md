@@ -1,6 +1,6 @@
 ## 🧑‍💻 About Me
 
-I'm Anurag Parashar, a passionate coder, tech enthusiast, and design lover dedicated to enhancing the digital world through innovative web development and visually stunning projects on GitHub. Currently expanding my tech and design horizons, I'm eager to connect, collaborate, and dive into exciting opportunities. Check out my repos, and let's create something amazing together!
+I'm Anurag Parashar, a passionate coder, tech enthusiast, and design lover dedicated to enhancing the digital world through innovative web development and visually stunning projects on GitHub. Currently expanding my tech and design horizons, I'm eager to connect, collaborate, and dive into exciting opportunities. Check out my repos, and let's create something amazing!
 
 ## 📚 Skill Set
 
