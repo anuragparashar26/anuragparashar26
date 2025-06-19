@@ -48,5 +48,5 @@ I'm Anurag Parashar, a passionate coder, tech enthusiast, and design lover dedic
 <br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragparashar26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2&cache_seconds=86400" width="350" height="190" alt="Languages Graph">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=anuragparashar26&theme=dark&card_width=450&card_height=190" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-wheat.vercel.app?user=anuragparashar26&theme=dark&card_width=450&card_height=190" alt="GitHub Streak" /></a>
 </div>
