@@ -1,1 +1,1 @@
-I build software that blends AI, design, and the web.
+Crafting software that blends AI, design, and the web.
